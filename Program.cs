@@ -126,7 +126,7 @@ public class Iniciar
 
         e1.CalculaJuros();
 
-        Console.WriteLine("\r\n-----------FIM------------");
+        Console.WriteLine("\r\n-----------FIM---------------");
     }
 }
 
