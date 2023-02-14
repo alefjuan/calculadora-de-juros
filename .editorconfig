@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS8974: Convertendo grupo de método em tipo não delegado
+dotnet_diagnostic.CS8974.severity = suggestion

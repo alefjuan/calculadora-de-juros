@@ -1,0 +1,15 @@
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\obj\Debug\net7.0\Ex8 OO.csproj.AssemblyReference.cache
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\obj\Debug\net7.0\Ex8 OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\obj\Debug\net7.0\Ex8 OO.AssemblyInfoInputs.cache
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\obj\Debug\net7.0\Ex8 OO.AssemblyInfo.cs
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\obj\Debug\net7.0\Ex8 OO.csproj.CoreCompileInputs.cache
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\bin\Debug\net7.0\Ex8 OO.exe
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\bin\Debug\net7.0\Ex8 OO.deps.json
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\bin\Debug\net7.0\Ex8 OO.runtimeconfig.json
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\bin\Debug\net7.0\Ex8 OO.dll
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\bin\Debug\net7.0\Ex8 OO.pdb
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\obj\Debug\net7.0\Ex8 OO.dll
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\obj\Debug\net7.0\refint\Ex8 OO.dll
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\obj\Debug\net7.0\Ex8 OO.pdb
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\obj\Debug\net7.0\Ex8 OO.genruntimeconfig.cache
+C:\Users\alefjuan\source\repos\Atividades\Ex8 OO\obj\Debug\net7.0\ref\Ex8 OO.dll
